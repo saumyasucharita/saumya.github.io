@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://saumyasucharita.github.io//saumya.github.io/sitemap.xml
